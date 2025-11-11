@@ -13,3 +13,9 @@
    Setelah instance TampilDataPage dibuat dan variabelnya (name, nim, age) terisi, method build() akan dieksekusi.  Di dalam build(), variabel-variabel tersebut (yang sekarang sudah berisi data dari form) dapat langsung digunakan untuk ditampilkan di dalam Text widget.
 
 
+# Screenshot
+<p align="center">
+  <img src="Screenshot_form.png" alt="Halaman Input Data Diri" width="300"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Screenshot_tampil.png" alt="Halaman Detail Perkenalan" width="300"/>
+</p>
